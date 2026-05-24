@@ -1,0 +1,8 @@
+zamowienie_id,imie,nazwisko,segment,miasto,produkt,kwota
+ZAM001,Anna,Kowalska,Premium,Warszawa,Laptop,3499.99
+ZAM002,Piotr,Nowak,Standard,Krakow,Lodowka,1899.0
+ZAM005,Marek,Lewandowski,Standard,Krakow,Pralka,1599.0
+ZAM004,Ewa,Kaminska,VIP,Warszawa,Tablet,1249.99
+ZAM007,Tomasz,Wojcik,Standard,Wroclaw,Zmywarka,1150.0
+ZAM003,Maria,Wisniewska,Premium,Gdansk,Smartfon,899.5
+ZAM006,Katarzyna,Dabrowska,Premium,Gdansk,Buty,199.99
